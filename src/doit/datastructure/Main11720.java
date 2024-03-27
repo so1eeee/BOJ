@@ -2,6 +2,8 @@ package doit.datastructure;
 
 import java.util.Scanner;
 
+
+//배열, 리스트
 public class Main11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
