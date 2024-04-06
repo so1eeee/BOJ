@@ -1,4 +1,4 @@
-package doit.datastructure;
+package Doit.DataStructure;
 
 import java.util.Scanner;
 

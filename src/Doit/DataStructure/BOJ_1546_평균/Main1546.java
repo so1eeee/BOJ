@@ -1,4 +1,4 @@
-package doit.datastructure;
+package Doit.DataStructure.BOJ_1546_평균;
 
 import java.util.Scanner;
 
