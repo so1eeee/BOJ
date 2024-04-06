@@ -1,5 +1,5 @@
 ## 문제 링크
-[BOJ 1546_평균](https://www.acmicpc.net/problem/1546)
+[BOJ_2018_수들의 합 5](https://www.acmicpc.net/problem/2018)
 
 ## 알고리즘 분류
 - 수학
