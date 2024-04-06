@@ -1,4 +1,4 @@
-package Doit.DataStructure;
+package Doit.DataStructure.BOJ_2018_수들의합5;
 
 import java.util.Scanner;
 
